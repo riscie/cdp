@@ -1,8 +1,8 @@
 # cdp - copy current console path into clipboard
 
 ##### installation
-`go get github.com/riscie/cdp
-go install`
+* `go get github.com/riscie/cdp`
+* `go install`
 
 ##### usage
 `cdp`
