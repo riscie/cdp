@@ -2,12 +2,12 @@
 
 ##### installation
 * `go get github.com/riscie/cdp`
-* `go install`
+* `go github.com/riscie/cdp`
 
 ##### usage
-`cdp`
+* `cdp`
 
 ##### enviroments
-Tested on Win10 using powershell
+* Tested on Win10 using powershell
 
 
